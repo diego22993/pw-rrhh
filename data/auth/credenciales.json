@@ -1,0 +1,21 @@
+{
+  "usuarioValido": {
+    "usuario": "cgomez",
+    "contrasenia": "Admin1234"
+  },
+  "contraseniaInvalida": {
+    "usuario": "cgomez",
+    "contrasenia": "admiN1234"
+  },
+  "usuarioInvalida": {
+    "usuario": "cGOMEZ",
+    "contrasenia": "Admin1234"
+  },
+  "usuarioInexistente": {
+    "usuario": "no_existo_rpc_2026",
+    "contrasenia": "Cualquiera123!"
+  },
+  "payloadIncompleto": {
+    "usuario": "DiegoH"
+  }
+}
