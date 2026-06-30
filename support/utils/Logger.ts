@@ -25,7 +25,7 @@ export const logger = winston.createLogger({
       filename: "logs/error.log", 
       level: "error" 
     }),
-    // 3. Archivo para el historial completo de peticiones
+    // 3. Archivo para el historial completo de peticiones.
     new winston.transports.File({ 
       filename: "logs/combined.log" 
     }),
